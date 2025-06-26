@@ -1,7 +1,7 @@
-# SimpleChatApp_Java
+# SimpleChatApp_Java_Socket-Based
 A Real-time Java socket-based chat application. Includes both server and client code for multi-user messaging.
 
-# SimpleChatApp
+# SimpleChatApp - Java Socket-Based Real-Time Chat App
 
 ## Overview
 
